@@ -1,5 +1,5 @@
 <nav class="large-3 cell navbar navbar-expand-lg navbar-light bg-light">
-<a class="navbar-brand" href="index.php">Football League</a>
+<a class="navbar-brand" href="index.php">Spiral</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -10,17 +10,17 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="about.php">About</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           More
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Teams</a>
-          <a class="dropdown-item" href="#">Results</a>
+          <a class="dropdown-item" href="something.php">Something</a>
+          <a class="dropdown-item" href="something2.php">Something</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Table</a>
+          <a class="dropdown-item" href="something3.php">Something</a>
         </div>
       </li>
     </ul>

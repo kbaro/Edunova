@@ -3,4 +3,4 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">  
-    <title>Football League</title>
+    <title>Spiral</title>
